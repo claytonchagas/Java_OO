@@ -1,6 +1,6 @@
 package javaOO1;
 
-class Produto
+public class Produto
 {
 	//	int contadorDeProdutos;
 	static int codigo;

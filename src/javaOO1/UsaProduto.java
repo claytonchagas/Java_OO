@@ -1,6 +1,6 @@
 package javaOO1;
 
-class UsaProduto {
+public class UsaProduto {
 	@SuppressWarnings("static-access")
 	public static void main(String args[]) {
 	Produto A = new Produto();
